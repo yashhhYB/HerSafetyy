@@ -14,17 +14,5 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/ishs-projects-4397d41e/v0-her-safety-app-development](https://vercel.com/ishs-projects-4397d41e/v0-her-safety-app-development)**
+**[https://vercel.com/ishs-projects-4397d41e/v0-her-safety-app-development](https://v0-her-safety-app-development.vercel.app/safe-route)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/uvGnoYdV2Oe](https://v0.dev/chat/projects/uvGnoYdV2Oe)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
